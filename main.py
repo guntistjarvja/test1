@@ -1,0 +1,1 @@
+print('Vards un uzvārds')
